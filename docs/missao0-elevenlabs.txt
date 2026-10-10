@@ -1,0 +1,131 @@
+MISSÃO 0 · VOZES NO ELEVENLABS (em blocos, com pausas para corte)
+====================================================================
+
+COMO FUNCIONA
+- Modelo: Eleven v3, que entende as tags de emoção ([nervous], [gulps]...). As tags ficam em inglês; a fala sai em português.
+- Cada bloco tem 5 falas separadas por [long pause]. Cole o BLOCO INTEIRO de uma vez, gere e baixe UM arquivo por bloco.
+- Eu corto nas pausas: o script procura as pausas mais longas do áudio, então pausas pequenas dentro de uma fala não atrapalham.
+- No total são 6 arquivos: 4 do Comandante, 1 do Narrador, 1 da Lupa e 1 fala avulsa (Isca).
+- Nomeie cada arquivo baixado como indicado no título do bloco (ex.: comandante-bloco1.mp3) e me mande.
+- Uso comercial exige plano pago (o Starter já libera). Gere a versão final no pago.
+
+ANTES DE BAIXAR, OUÇA E CONFIRME
+1. Tem um silêncio claro (cerca de 1 segundo) entre uma fala e outra.
+2. A voz NÃO leu "long pause" em voz alta.
+3. Nenhuma fala ficou faltando.
+Se algo falhar, gere o bloco de novo (cada geração sai diferente).
+
+
+PASSO 1 · ESCOLHER A VOZ DO COMANDANTE
+---------------------------------------
+Voices → Explore. Filtros: Language = Portuguese, Accent = Brazilian, Gender = Male, Age = Middle aged ou Old.
+Procure um homem maduro, de voz grave, calorosa e simpática: um líder, não um locutor de rádio.
+Teste as candidatas com esta frase:
+
+  Bom dia, recruta. [nervous] Hã... esses são os que tentam entrar.
+
+Configurações (Text to Speech, engrenagem):
+- Model: Eleven v3
+- Stability: Natural (Robust se ficar exagerado; Creative se ficar sem emoção)
+- Use a mesma voz e as mesmas configurações nos 4 blocos.
+
+
+PASSO 2 · COMANDANTE
+--------------------
+Copie tudo entre as linhas pontilhadas, incluindo as tags e os [long pause].
+
+COMANDANTE · BLOCO 1 de 4  →  salvar como comandante-bloco1.mp3
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[warmly] Bom dia, recruta. Eu sou o Comandante do Esquadrão Sentinela.
+[long pause]
+Aqui na Francal, a gente tem firewall, antivírus, equipe de TI. [serious] Mas nenhuma tecnologia segura um golpe sozinha.
+[long pause]
+Quase todo ataque começa do mesmo jeito: com uma pessoa clicando, respondendo ou acreditando na hora errada. [confident] Por isso a nossa melhor defesa é você.
+[long pause]
+[gulps] [nervous] Hã... esses são os que tentam entrar. Conheça o inimigo.
+[long pause]
+[nervous] A Isca. Joga mensagens falsas por e-mail, SMS e WhatsApp, esperando alguém morder.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+COMANDANTE · BLOCO 2 de 4  →  salvar como comandante-bloco2.mp3
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+A Força Bruta. Testa milhões de senhas por segundo, e adora quem usa a mesma senha em tudo.
+[long pause]
+[disgusted] O Vazamento. Escorre por planilhas esquecidas e e-mails enviados para a pessoa errada.
+[long pause]
+[whispers] E o Camaleão. Muda de rosto e de voz. Finge ser do suporte, da diretoria, de um fornecedor.
+[long pause]
+[sly] [sweetly] Oi, aqui é o Comandante. Preciso da sua senha, é urgente.
+[long pause]
+[startled] [shouts] Ei! Essa voz é minha! [exhales] [calm] Viu? Nem eu peço sua senha. Nunca.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+(A 4ª fala é o Camaleão imitando o Comandante; eu aplico o efeito metálico depois.)
+
+COMANDANTE · BLOCO 3 de 4  →  salvar como comandante-bloco3.mp3
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[encouraging] Seja qual for a sua resposta, nós vamos enfrentar cada um deles, um por missão.
+[long pause]
+[proudly] Você não vai sozinho. Esta é a Lupa, a melhor detetive do esquadrão.
+[long pause]
+Os outros heróis você vai conhecer nas próximas missões. [mysterious] E fique atento: eles podem estar sentados bem do seu lado.
+[long pause]
+[excited] São quatro missões, uma para cada vilão. Em cada uma, você toma decisões, e elas mudam a história.
+[long pause]
+[warmly] Errou? Faz parte. Aqui é o lugar certo para errar e aprender.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+COMANDANTE · BLOCO 4 de 4  →  salvar como comandante-bloco4.mp3
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[excited] No fim de cada missão tem um desafio rápido. Mandou bem, ganha a insígnia. Com as quatro, você vira um Sentinela completo!
+[long pause]
+[solemn] Antes de começar, todo Sentinela faz três promessas.
+[long pause]
+[solemn] Esse é o canal da Central Sentinela. Guarde bem: é a sua arma mais poderosa.
+[long pause]
+[startled] É a Isca! [determined] Recruta, sua primeira missão começa agora.
+[long pause]
+[confident] Lupa, ele é seu. Boa caçada.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+PASSO 3 · AS OUTRAS VOZES (as mesmas do módulo 1)
+--------------------------------------------------
+
+NARRADOR  →  salvar como narrador-m0.mp3
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[serious] Toda empresa guarda algo valioso. Dados de clientes. Senhas. Contratos. Dinheiro.
+[long pause]
+[ominous] E lá fora tem gente tentando entrar. Não pela porta da frente. Por você.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+LUPA  →  salvar como lupa-m0.mp3
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[confident] Prazer, recruta. Comigo, nenhuma isca passa despercebida.
+[long pause]
+[urgent] Comandante! Atividade suspeita no setor de e-mails.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+(A 2ª fala vai sair com efeito de rádio, pelo comunicador.)
+
+ISCA (uma fala só, não precisa de pausa)  →  salvar como m0_08_isca.mp3
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[sly] [excited] Rapidinho, é só clicar aqui!
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+A risada do Vazamento entra como efeito sonoro; não precisa gerar.
+
+
+SE ALGO DER ERRADO
+- A voz leu a tag ("nervous", "long pause")? O modelo não é o v3. Troque para Eleven v3.
+- As pausas saíram curtas ou sumiram? Troque [long pause] por "[long pause] ..." (com reticências) e gere de novo.
+- Sotaque de Portugal ou inglês? Escolha uma voz marcada como Brazilian.
+- Emoção exagerada? Troque Stability para Robust, ou apague a tag daquela fala.
+- "Francal" saiu esquisito? Escreva "Fran-cal".
+
+
+PARA O CLAUDE (corte dos arquivos)
+npm run audio:dividir -- "M0 · COMANDANTE · BLOCO 1 de 4" audio-bruto/comandante-bloco1.mp3
+npm run audio:dividir -- "M0 · COMANDANTE · BLOCO 2 de 4" audio-bruto/comandante-bloco2.mp3
+npm run audio:dividir -- "M0 · COMANDANTE · BLOCO 3 de 4" audio-bruto/comandante-bloco3.mp3
+npm run audio:dividir -- "M0 · COMANDANTE · BLOCO 4 de 4" audio-bruto/comandante-bloco4.mp3
+npm run audio:dividir -- "M0 · NARRADOR" audio-bruto/narrador-m0.mp3
+npm run audio:dividir -- "M0 · LUPA" audio-bruto/lupa-m0.mp3

@@ -1,0 +1,134 @@
+TEXTOS PARA GERAR NO ELEVENLABS, COM PAUSAS MARCADAS
+
+Modelo: Eleven Multilingual v2 (a tag <break> não funciona no v3).
+Cole cada bloco inteiro de uma vez, com as tags <break>, e baixe um arquivo por bloco.
+São 5 arquivos no total. Mantenha a voz e as configurações iguais dentro de cada personagem.
+
+================================================================
+LUPA · PARTE 1 de 3 (falas 1 a 12)
+================================================================
+Opa, opa. Antes de clicar… olha de novo.
+<break time="1.5s" />
+Prazer, Lupa, do Esquadrão Sentinela. Você é o recruta novo da empresa, né?
+<break time="1.5s" />
+Então vamos ver do que você é capaz.
+<break time="1.5s" />
+Acontece com gente muito experiente. Mas olha só o que eu teria visto antes.
+<break time="1.5s" />
+Vamos voltar a fita.
+<break time="1.5s" />
+Quase. Perguntar foi uma boa intuição, mas pro lugar errado: quem responde é o próprio golpista.
+<break time="1.5s" />
+Desconfiou? Pergunte por outro canal. Bora aprender a enxergar os sinais.
+<break time="1.5s" />
+Jogada de mestre, recruta.
+<break time="1.5s" />
+Esse mesmo e-mail chegou pra outras 300 pessoas. Seu reporte avisou a equipe pra apagar todos.
+<break time="1.5s" />
+Agora deixa eu te mostrar como eu soube na hora.
+<break time="1.5s" />
+Phishing é uma mensagem que finge ser de alguém de confiança pra você entregar senha, dados ou dinheiro.
+<break time="1.5s" />
+A Isca joga milhares de anzóis por dia. Mas todo anzol deixa pistas. Cinco delas.
+
+================================================================
+LUPA · PARTE 2 de 3 (falas 13 a 24)
+================================================================
+Um: o remetente. Olha o endereço, não só o nome. Esse domínio não é o da empresa.
+<break time="1.5s" />
+Dois: urgência e ameaça. Prazo curto e salário em risco. Pressa desliga o pensamento.
+<break time="1.5s" />
+Três: link disfarçado. Passe o mouse em cima, sem clicar, e o endereço real aparece. No celular, segure o dedo.
+<break time="1.5s" />
+Quatro: pedido de senha ou dados. RH, TI e banco não pedem sua senha por e-mail. Nunca.
+<break time="1.5s" />
+Cinco: saudação genérica e detalhes estranhos, como Prezado colaborador.
+<break time="1.5s" />
+Viu um sinal? Já vale desconfiar. Viu dois? Não clica, reporta.
+<break time="1.5s" />
+Repara no truque do domínio: ele colocou o nome da empresa no endereço pra parecer de casa. Nome conhecido no meio do endereço não é garantia de nada.
+<break time="1.5s" />
+Mesma isca, outro lago. SMS e WhatsApp também têm phishing. E aí, recruta?
+<break time="1.5s" />
+O golpe nunca foi os quatro e noventa. Era o seu cartão inteiro.
+<break time="1.5s" />
+Taxa surpresa por link é sinal clássico. Confira sempre direto no site ou app da loja.
+<break time="1.5s" />
+Isso! Não discutiu com a mensagem, foi direto na fonte.
+<break time="1.5s" />
+Esse é o hábito que derruba qualquer isca.
+
+================================================================
+LUPA · PARTE 3 de 3 (falas 25 a 34)
+================================================================
+Agora a parte mais importante do treinamento.
+<break time="1.5s" />
+Um dia, cansado, com pressa, você pode clicar. Acontece com todo mundo.
+<break time="1.5s" />
+O que separa um susto de um desastre é o que você faz nos minutos seguintes.
+<break time="1.5s" />
+Primeiro: avise o TI imediatamente, pelo canal oficial. Sem vergonha; ninguém vai te crucificar.
+<break time="1.5s" />
+Segundo: troque a senha que você digitou, e em qualquer outro lugar onde usava a mesma.
+<break time="1.5s" />
+Terceiro: não apague a mensagem. Ela ajuda o TI a bloquear o golpe para todo mundo.
+<break time="1.5s" />
+Quarto: se envolveu cartão ou banco, ligue para o banco pelo número do verso do cartão.
+<break time="1.5s" />
+Atacante conta com o silêncio. Quanto mais cedo a gente sabe, menor o estrago.
+<break time="1.5s" />
+E nesse dia você vai lembrar: olha de novo.
+<break time="1.5s" />
+Bem-vindo ao Esquadrão Sentinela, recruta. Primeira insígnia conquistada.
+
+================================================================
+NARRADOR (15 falas)
+================================================================
+Segunda-feira, 8 da manhã. Quarenta e dois e-mails não lidos.
+<break time="1.5s" />
+O dia mal começou… e alguém já está pescando.
+<break time="1.5s" />
+Um novo e-mail chega com destaque.
+<break time="1.5s" />
+A página abre: uma tela de login igualzinha à da empresa.
+<break time="1.5s" />
+Usuário… senha… entrar.
+<break time="1.5s" />
+Você responde: Isso é verdade?
+<break time="1.5s" />
+Segundos depois, chega a resposta.
+<break time="1.5s" />
+Você clica em Reportar. Na Central Sentinela, um alerta acende.
+<break time="1.5s" />
+A Isca, irritada, troca de tática.
+<break time="1.5s" />
+No seu celular, uma mensagem de número desconhecido.
+<break time="1.5s" />
+O link pede nome, número do cartão, validade e código de segurança.
+<break time="1.5s" />
+Você abre o app da loja: pedido em trânsito, sem pendências.
+<break time="1.5s" />
+A Isca tenta lançar a vara de novo…
+<break time="1.5s" />
+…mas as janelas da empresa se acendem, uma a uma, com reportes.
+<break time="1.5s" />
+Próxima missão: A Força Bruta.
+
+================================================================
+ISCA (8 falas)
+================================================================
+Fisgado! Rá, rá! Que peixão!
+<break time="1.5s" />
+Com essa senha eu entro no e-mail, no sistema... quem sabe até na folha de pagamento.
+<break time="1.5s" />
+Ele respondeu! Agora eu sei que esse endereço existe... e que tem alguém lendo.
+<break time="1.5s" />
+Vou caprichar no próximo.
+<break time="1.5s" />
+Ei! Quem cortou a minha linha?!
+<break time="1.5s" />
+E-mail não deu? Tudo bem... Todo mundo tá esperando alguma entrega.
+<break time="1.5s" />
+Obrigado pelo cartão! Rá! Volte sempre!
+<break time="1.5s" />
+Isso não acaba aqui! Um dia... alguém vai estar com pressa.

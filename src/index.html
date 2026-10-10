@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Esquadrão Sentinela</title>
+<link rel="icon" href="data:,">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=JetBrains+Mono:wght@400;600&display=swap">
+<link rel="stylesheet" href="css/player.css">
+</head>
+<body>
+<div class="app" id="app">
+  <div class="cine" id="cine">
+    <div class="frame" id="frame">
+      <div class="stage" id="stage">
+        <div class="art" id="art"></div>
+        <div class="screen" id="screen"></div>
+        <div class="fx" id="fx"></div>
+        <p class="subs" id="subs" aria-live="polite"></p>
+      </div>
+      <div class="topbar">
+        <ol class="chapters" id="chapters" aria-label="Progresso do módulo"></ol>
+        <div class="tb-row">
+          <div class="brand-chip"><span class="logo" id="logo"></span><span class="brand-name" id="brandName"></span><span class="mod-name" id="modName"></span></div>
+          <span class="xp" id="xpHud" aria-live="polite"></span>
+          <div class="tb-ctrl">
+            <span class="status" id="lmsStatus" hidden>Modo demonstração</span>
+            <button class="icon" id="btnConfig" aria-expanded="false" aria-controls="drawer" title="Personalizar demonstração">Personalizar</button>
+            <button class="icon" id="btnAuto" aria-pressed="true" title="Avanço automático">Auto</button>
+            <button class="icon" id="btnVoice" aria-pressed="true" title="Som">Som</button>
+            <button class="icon" id="btnRestart" title="Recomeçar">Recomeçar</button>
+            <button class="icon" id="btnFull" title="Tela cheia">Tela cheia</button>
+          </div>
+        </div>
+      </div>
+      <div class="toasts" id="toasts" aria-live="polite"></div>
+      <button class="skip" id="btnSkip" title="Próxima fala" aria-label="Próxima fala">›</button>
+      <div class="overlay" id="overlay" hidden><section class="panel" id="panel" aria-live="polite"></section></div>
+    </div>
+  </div>
+  <div class="dock" id="dock"></div>
+  <section class="drawer" id="drawer" hidden aria-label="Personalizar demonstração">
+    <div style="display:flex;justify-content:space-between;align-items:center;gap:12px"><h2>Personalização white label</h2><button class="icon" id="btnCloseDrawer">Fechar</button></div>
+    <p>Mude os dados e veja o módulo inteiro se adaptar ao cliente. No pacote para o cliente, esses valores ficam fixos no bloco CONFIG do código e este painel não aparece.</p>
+    <div class="fields">
+      <label for="cfgEmpresa">Nome da empresa<input id="cfgEmpresa" type="text" autocomplete="off"></label>
+      <label for="cfgDominio">Domínio oficial de e-mail<input id="cfgDominio" type="text" autocomplete="off"></label>
+      <label for="cfgCor">Cor da marca<input id="cfgCor" type="color"></label>
+      <label for="cfgLogo">Logo (imagem quadrada)<input id="cfgLogo" type="file" accept="image/*"></label>
+      <label for="cfgCanal">Canal de reporte<input id="cfgCanal" type="text" autocomplete="off"></label>
+      <label for="cfgCanalDet">Contato alternativo<input id="cfgCanalDet" type="text" autocomplete="off"></label>
+    </div>
+    <div>
+      <p style="margin-bottom:8px">Ir direto para um trecho:</p>
+      <div class="jump" id="jump"></div>
+    </div>
+    <div style="display:flex;flex-wrap:wrap;gap:8px"><button class="secondary" id="cfgReset">Voltar ao exemplo</button><button class="secondary" id="cfgZerar">Zerar XP e progresso</button></div>
+  </section>
+</div>
+
+<script src="js/config.js"></script>
+<script src="js/core.js"></script>
+<script src="js/cenas.js"></script>
+<script src="js/roteiro.js"></script>
+<script src="js/progresso.js"></script>
+<script src="js/animacao.js"></script>
+<script src="js/player.js"></script>
+</body>
+</html>

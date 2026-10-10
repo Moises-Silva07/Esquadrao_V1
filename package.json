@@ -1,0 +1,17 @@
+{
+  "name": "esquadrao-sentinela",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Treinamento interativo de segurança da informação (white label, SCORM 1.2): Missão 0 (recrutamento) e Missão 1 (A Isca).",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/servidor.mjs",
+    "build:scorm": "node scripts/build-scorm.mjs",
+    "audio:dividir": "node scripts/dividir-audio.mjs",
+    "quadros:preparar": "node scripts/preparar-quadros.mjs"
+  },
+  "devDependencies": {
+    "adm-zip": "^0.5.16",
+    "ffmpeg-static": "^5.2.0"
+  }
+}

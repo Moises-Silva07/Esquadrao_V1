@@ -1,0 +1,5 @@
+node_modules/
+dist/
+audio-bruto/*.mp3
+.DS_Store
+video-bruto/

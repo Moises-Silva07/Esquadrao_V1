@@ -1,0 +1,59 @@
+﻿arquivo;trecho;fala;voz;texto para gravar (sem nome do cliente);legenda no player
+t1_01_narrador.mp3;t1;1;Narrador;Segunda-feira, 8 da manhã. Quarenta e dois e-mails não lidos.;Segunda-feira, 8 da manhã. Quarenta e dois e-mails não lidos.
+t1_02_narrador.mp3;t1;2;Narrador;O dia mal começou… e alguém já está pescando.;O dia mal começou… e alguém já está pescando.
+t1_03_narrador.mp3;t1;3;Narrador;Um novo e-mail chega com destaque.;Um novo e-mail chega com destaque.
+t1_04_lupa.mp3;t1;4;Lupa;Opa, opa. Antes de clicar… olha de novo.;Opa, opa. Antes de clicar… olha de novo.
+t1_05_lupa.mp3;t1;5;Lupa;Prazer, Lupa, do Esquadrão Sentinela. Você é o recruta novo da empresa, né?;Prazer, Lupa, do Esquadrão Sentinela. Você é o recruta novo da [EMPRESA], né?
+t1_06_lupa.mp3;t1;6;Lupa;Então vamos ver do que você é capaz.;Então vamos ver do que você é capaz.
+t2a_01_narrador.mp3;t2a;1;Narrador;A página abre: uma tela de login igualzinha à da empresa.;A página abre: uma tela de login igualzinha à da [EMPRESA].
+t2a_02_narrador.mp3;t2a;2;Narrador;Usuário… senha… entrar.;Usuário… senha… entrar.
+t2a_03_isca.mp3;t2a;3;Isca;Fisgado! Que peixão!;Fisgado! Que peixão!
+t2a_04_isca.mp3;t2a;4;Isca;Com essa senha eu entro no e-mail, no sistema… quem sabe até na folha de pagamento.;Com essa senha eu entro no e-mail, no sistema… quem sabe até na folha de pagamento.
+t2a_05_lupa.mp3;t2a;5;Lupa;Acontece com gente muito experiente. Mas olha só o que eu teria visto antes.;Acontece com gente muito experiente. Mas olha só o que eu teria visto antes.
+t2a_06_lupa.mp3;t2a;6;Lupa;Vamos voltar a fita.;Vamos voltar a fita.
+t2b_01_narrador.mp3;t2b;1;Narrador;Você responde: “Isso é verdade?”;Você responde: “Isso é verdade?”
+t2b_02_narrador.mp3;t2b;2;Narrador;Segundos depois, chega a resposta.;Segundos depois, chega a resposta.
+t2b_03_isca.mp3;t2b;3;Isca;Ele respondeu! Agora eu sei que esse endereço existe e que tem alguém lendo.;Ele respondeu! Agora eu sei que esse endereço existe e que tem alguém lendo.
+t2b_04_isca.mp3;t2b;4;Isca;Vou caprichar no próximo.;Vou caprichar no próximo.
+t2b_05_lupa.mp3;t2b;5;Lupa;Quase. Perguntar foi uma boa intuição, mas pro lugar errado: quem responde é o próprio golpista.;Quase. Perguntar foi uma boa intuição, mas pro lugar errado: quem responde é o próprio golpista.
+t2b_06_lupa.mp3;t2b;6;Lupa;Desconfiou? Pergunte por outro canal. Bora aprender a enxergar os sinais.;Desconfiou? Pergunte por outro canal. Bora aprender a enxergar os sinais.
+t2c_01_narrador.mp3;t2c;1;Narrador;Você clica em Reportar. Na Central Sentinela, um alerta acende.;Você clica em Reportar. Na Central Sentinela, um alerta acende.
+t2c_02_isca.mp3;t2c;2;Isca;Ei! Quem cortou minha linha?!;Ei! Quem cortou minha linha?!
+t2c_03_lupa.mp3;t2c;3;Lupa;Jogada de mestre, recruta.;Jogada de mestre, recruta.
+t2c_04_lupa.mp3;t2c;4;Lupa;Esse mesmo e-mail chegou pra outras 300 pessoas. Seu reporte avisou a equipe pra apagar todos.;Esse mesmo e-mail chegou pra outras 300 pessoas. Seu reporte avisou a equipe pra apagar todos.
+t2c_05_lupa.mp3;t2c;5;Lupa;Agora deixa eu te mostrar como eu soube na hora.;Agora deixa eu te mostrar como eu soube na hora.
+t3_01_lupa.mp3;t3;1;Lupa;Phishing é uma mensagem que finge ser de alguém de confiança pra você entregar senha, dados ou dinheiro.;Phishing é uma mensagem que finge ser de alguém de confiança pra você entregar senha, dados ou dinheiro.
+t3_02_lupa.mp3;t3;2;Lupa;A Isca joga milhares de anzóis por dia. Mas todo anzol deixa pistas. Cinco delas.;A Isca joga milhares de anzóis por dia. Mas todo anzol deixa pistas. Cinco delas.
+t3_03_lupa.mp3;t3;3;Lupa;Um: o remetente. Olha o endereço, não só o nome. Esse domínio não é o da empresa.;Um: o remetente. Olha o endereço, não só o nome. Esse domínio não é o da [EMPRESA].
+t3_04_lupa.mp3;t3;4;Lupa;Dois: urgência e ameaça. Prazo curto e salário em risco. Pressa desliga o pensamento.;Dois: urgência e ameaça. Prazo curto e salário em risco. Pressa desliga o pensamento.
+t3_05_lupa.mp3;t3;5;Lupa;Três: link disfarçado. Passe o mouse em cima, sem clicar, e o endereço real aparece. No celular, segure o dedo.;Três: link disfarçado. Passe o mouse em cima, sem clicar, e o endereço real aparece. No celular, segure o dedo.
+t3_06_lupa.mp3;t3;6;Lupa;Quatro: pedido de senha ou dados. RH, TI e banco não pedem sua senha por e-mail. Nunca.;Quatro: pedido de senha ou dados. RH, TI e banco não pedem sua senha por e-mail. Nunca.
+t3_07_lupa.mp3;t3;7;Lupa;Cinco: saudação genérica e detalhes estranhos, como “Prezado colaborador”.;Cinco: saudação genérica e detalhes estranhos, como “Prezado colaborador”.
+t3_08_lupa.mp3;t3;8;Lupa;Viu um sinal? Já vale desconfiar. Viu dois? Não clica, reporta.;Viu um sinal? Já vale desconfiar. Viu dois? Não clica, reporta.
+t4_01_lupa.mp3;t4;1;Lupa;Repara no truque do domínio: ele colocou o nome da empresa no endereço pra parecer de casa. Nome conhecido no meio do endereço não é garantia de nada.;Repara no truque do domínio: ele colocou o nome da [EMPRESA] no endereço pra parecer de casa. Nome conhecido no meio do endereço não é garantia de nada.
+t5_01_narrador.mp3;t5;1;Narrador;A Isca, irritada, troca de tática.;A Isca, irritada, troca de tática.
+t5_02_isca.mp3;t5;2;Isca;E-mail não deu? Tudo bem. Todo mundo tá esperando alguma entrega…;E-mail não deu? Tudo bem. Todo mundo tá esperando alguma entrega…
+t5_03_narrador.mp3;t5;3;Narrador;No seu celular, uma mensagem de número desconhecido.;No seu celular, uma mensagem de número desconhecido.
+t5_04_lupa.mp3;t5;4;Lupa;Mesma isca, outro lago. SMS e WhatsApp também têm phishing. E aí, recruta?;Mesma isca, outro lago. SMS e WhatsApp também têm phishing. E aí, recruta?
+t6a_01_narrador.mp3;t6a;1;Narrador;O link pede nome, número do cartão, validade e código de segurança.;O link pede nome, número do cartão, validade e código de segurança.
+t6a_02_isca.mp3;t6a;2;Isca;Obrigado pelo cartão! Volte sempre!;Obrigado pelo cartão! Volte sempre!
+t6a_03_lupa.mp3;t6a;3;Lupa;O golpe nunca foi os R$ 4,90. Era o seu cartão inteiro.;O golpe nunca foi os R$ 4,90. Era o seu cartão inteiro.
+t6a_04_lupa.mp3;t6a;4;Lupa;Taxa surpresa por link é sinal clássico. Confira sempre direto no site ou app da loja.;Taxa surpresa por link é sinal clássico. Confira sempre direto no site ou app da loja.
+t6b_01_narrador.mp3;t6b;1;Narrador;Você abre o app da loja: pedido em trânsito, sem pendências.;Você abre o app da loja: pedido em trânsito, sem pendências.
+t6b_02_lupa.mp3;t6b;2;Lupa;Isso! Não discutiu com a mensagem, foi direto na fonte.;Isso! Não discutiu com a mensagem, foi direto na fonte.
+t6b_03_lupa.mp3;t6b;3;Lupa;Esse é o hábito que derruba qualquer isca.;Esse é o hábito que derruba qualquer isca.
+t7_01_lupa.mp3;t7;1;Lupa;Agora a parte mais importante do treinamento.;Agora a parte mais importante do treinamento.
+t7_02_lupa.mp3;t7;2;Lupa;Um dia, cansado, com pressa, você pode clicar. Acontece com todo mundo.;Um dia, cansado, com pressa, você pode clicar. Acontece com todo mundo.
+t7_03_lupa.mp3;t7;3;Lupa;O que separa um susto de um desastre é o que você faz nos minutos seguintes.;O que separa um susto de um desastre é o que você faz nos minutos seguintes.
+t7_04_lupa.mp3;t7;4;Lupa;"Primeiro: avise o TI imediatamente, pelo canal oficial. Sem vergonha; ninguém vai te crucificar.";"Primeiro: avise o TI imediatamente, pelo canal oficial. Sem vergonha; ninguém vai te crucificar."
+t7_05_lupa.mp3;t7;5;Lupa;Segundo: troque a senha que você digitou, e em qualquer outro lugar onde usava a mesma.;Segundo: troque a senha que você digitou, e em qualquer outro lugar onde usava a mesma.
+t7_06_lupa.mp3;t7;6;Lupa;Terceiro: não apague a mensagem. Ela ajuda o TI a bloquear o golpe para todo mundo.;Terceiro: não apague a mensagem. Ela ajuda o TI a bloquear o golpe para todo mundo.
+t7_07_lupa.mp3;t7;7;Lupa;Quarto: se envolveu cartão ou banco, ligue para o banco pelo número do verso do cartão.;Quarto: se envolveu cartão ou banco, ligue para o banco pelo número do verso do cartão.
+t7_08_lupa.mp3;t7;8;Lupa;Atacante conta com o silêncio. Quanto mais cedo a gente sabe, menor o estrago.;Atacante conta com o silêncio. Quanto mais cedo a gente sabe, menor o estrago.
+t8_01_narrador.mp3;t8;1;Narrador;A Isca tenta lançar a vara de novo…;A Isca tenta lançar a vara de novo…
+t8_02_narrador.mp3;t8;2;Narrador;…mas as janelas da empresa se acendem, uma a uma, com reportes.;…mas as janelas da [EMPRESA] se acendem, uma a uma, com reportes.
+t8_03_isca.mp3;t8;3;Isca;Isso não acaba aqui! Um dia alguém vai estar com pressa…;Isso não acaba aqui! Um dia alguém vai estar com pressa…
+t8_04_lupa.mp3;t8;4;Lupa;E nesse dia você vai lembrar: olha de novo.;E nesse dia você vai lembrar: olha de novo.
+t8_05_lupa.mp3;t8;5;Lupa;Bem-vindo ao Esquadrão Sentinela, recruta. Primeira insígnia conquistada.;Bem-vindo ao Esquadrão Sentinela, recruta. Primeira insígnia conquistada.
+t8_06_forca-bruta.mp3;t8;6;Força Bruta;123456… senha123… empresa2026… Achei!;123456… senha123… [empresa]2026… Achei!
+t8_07_narrador.mp3;t8;7;Narrador;Próxima missão: A Força Bruta.;Próxima missão: A Força Bruta.
